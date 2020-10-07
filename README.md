@@ -29,3 +29,30 @@
   > "[Shaun] is a power contributor [to [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)]"
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [_Nicholas Carrigan_](https://www.nhcarrigan.com/home)
+
+---
+
+## Featured Contributions
+
+- Update freeCodeCamp Advanced Node and Express Content
+  - [Content PR](https://github.com/freeCodeCamp/freeCodeCamp/pull/39080)
+  - [Boilerplate PR](https://github.com/freeCodeCamp/boilerplate-advancednode/pull/11)
+  
+- Add Timezone Selection Feature to freeCodeCamp Platform (_too cool to merge_)
+  - [PR](https://github.com/freeCodeCamp/freeCodeCamp/pull/39218)
+  
+- Add WSL Setup Instructions to freeCodeCamp Docs
+  - [PR](https://github.com/freeCodeCamp/freeCodeCamp/pull/38997)
+  
+- Fix Placeholder on freeCodeCamp Platform
+  - [First PR](https://github.com/freeCodeCamp/freeCodeCamp/pull/38411)
+  - [Second PR](https://github.com/freeCodeCamp/freeCodeCamp/pull/39494) (_people like to undo my work_ :wink:)
+
+- Refactor Solution Form on freeCodeCamp Platform
+  - [PR](https://github.com/freeCodeCamp/freeCodeCamp/pull/39552)
+
+- Add Email OAuth Check to freeCodeCamp Platform
+  - [PR](https://github.com/freeCodeCamp/freeCodeCamp/pull/38586) (_small change, many files..._)
+  
+- First Open-Source Contribution
+  - [PR](https://github.com/freeCodeCamp/freeCodeCamp/pull/38316) (_we all start somewhere_)

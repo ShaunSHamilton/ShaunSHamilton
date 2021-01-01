@@ -29,6 +29,7 @@
   > "[Shaun] is a power contributor [to [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)]"
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [_Nicholas Carrigan_](https://www.nhcarrigan.com/home)
+- :boom: [freeCodeCamp Top Contributor (2020)](https://www.freecodecamp.org/news/2020-top-contributors/#freecodecamp-codebase-top-contributor)
 
 ---
 

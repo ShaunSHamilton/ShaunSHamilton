@@ -21,8 +21,8 @@
 
 ## About Shaun
 
-- 🔭 Currently studying Mechanical Engineering, MathWorks Student Amabassador at the University of Glasgow
-- 🌱 Currently learning Rust
+- 🔭 Currently studying Mechanical Engineering
+- 🌱 Learning Rust
 - 💬 Feel free to ask him about Renewable Energy Technologies
 - 📫 Contact him through his portfolio webpage :arrow_left:
 - ⚡ Quote (from Discord server):
@@ -39,11 +39,22 @@
   - [Content PR](https://github.com/freeCodeCamp/freeCodeCamp/pull/39080)
   - [Boilerplate PR](https://github.com/freeCodeCamp/boilerplate-advancednode/pull/11)
   
+- Add Project URLs to freeCodeCamp Certificates
+  - [PR](https://github.com/freeCodeCamp/freeCodeCamp/pull/40071)
+  
+- Improve Input Validation and UX
+  - [PR](https://github.com/freeCodeCamp/freeCodeCamp/pull/40225)
+  
 - Add Timezone Selection Feature to freeCodeCamp Platform (_too cool to merge_)
   - [PR](https://github.com/freeCodeCamp/freeCodeCamp/pull/39218)
   
-- Add WSL Setup Instructions to freeCodeCamp Docs
-  - [PR](https://github.com/freeCodeCamp/freeCodeCamp/pull/38997)
+- Update freeCodeCamp Docs
+  - [Windows Subsystem for Linux](https://github.com/freeCodeCamp/freeCodeCamp/pull/38997)
+  - [Cypress on GitPod](https://github.com/freeCodeCamp/freeCodeCamp/pull/40925)
+  
+- Improve Development Tools
+  - [Add Cypress and Puppeteer](https://github.com/freeCodeCamp/freeCodeCamp/pull/40862)
+  - [Add User Data to Seed DB](https://github.com/freeCodeCamp/freeCodeCamp/pull/40181)
   
 - Fix Placeholder on freeCodeCamp Platform
   - [First PR](https://github.com/freeCodeCamp/freeCodeCamp/pull/38411)

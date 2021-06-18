@@ -21,7 +21,7 @@
 
 ## About Shaun
 
-- 🔭 Currently studying Mechanical Engineering
+- 🔭 Currently working as a Software Developer for freeCodeCamp
 - 🌱 Learning Rust
 - 💬 Feel free to ask him about Renewable Energy Technologies
 - 📫 Contact him through his portfolio webpage :arrow_left:

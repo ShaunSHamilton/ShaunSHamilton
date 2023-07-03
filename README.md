@@ -18,3 +18,5 @@
 | **[Open Source Contributor](https://shaunshamilton.github.io/open-source-contributor/)** | A short book detailing my own personal workflows in day-to-day open-sourcing. |
 | **[Rust in Replit](https://github.com/freeCodeCamp/rust-in-replit)** | An interactive course for beginner Rustaceans. |
 | **[Into the Book](https://github.com/ShaunSHamilton/into-the-book)** | An interactive deep-dive into the Rust Book. |
+
+[![committers.top badge](https://user-badge.committers.top/south_africa_public/ShaunSHamilton.svg)](https://user-badge.committers.top/south_africa_public/ShaunSHamilton)
